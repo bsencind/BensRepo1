@@ -1,3 +1,7 @@
+//This is a program I built in C that replicates an amortization table for a mortgage. 
+//It can compare the same loan with two different interest rates
+//It also has a feature for refinancing the loan
+
 #include <stdio.h>
 #include <math.h>		
 
