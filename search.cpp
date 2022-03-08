@@ -1,3 +1,7 @@
+//This is a program that replicates an autocomplete feature using a Trie data structure. It imports a dictionary from Dictionary.txt, 
+//inserts the words into the Trie, and then allows the user to search for phrases, with the program generating suggestions to 
+//autocomplete the word. 
+
 #include <iostream>
 #include <string>
 #include <fstream>
